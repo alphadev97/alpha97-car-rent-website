@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/usamaweb/alpha97-car-rent-website">
-    <img src="./images/ALPHA97.png" alt="Logo" width="80" height="80">
+    <img src="./images/ALPHA97.png" alt="Logo" width="700" height="200">
   </a>
 
   <h3 align="center">Alpha97 - Car rent website</h3>
